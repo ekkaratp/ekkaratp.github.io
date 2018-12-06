@@ -1,16 +1,23 @@
 {
-  "id": "P0008699",
-  "name": "เฟิสท์เฮ้าส์",
-  "address": "ถนนพญาไท ราชเทวี กรุงเทพมหานคร",
-  "detail": "",
-  "phone": "",
-  "website": "http://map.tourismthailand.org/ThailandTourismMap/image/20000038285_PIC1.jpg",
-  "pictures": [],
-  "hotel_star": 0,
-  "checkin_checkout": " - ",
-  "range_of_price": "0.00",
-  "services": [],
-  "facilities": [],
-  "payment": [],
-  "transport_type": ""
+  "id": "P0008698",
+  "name": "โรงแรมแนร์รี่อินน์",
+  "address": "ซอยสุขุมวิท 11/1 คลองเตยเหนือ วัฒนา กรุงเทพมหานคร",
+  "detail": "แบรี่ อินน์ เคลีย ได้รับการออกแบบเพื่อรองรับทั้งนักเดินทางเพื่อธุรกิจและการพักผ่อน โดยตั้งอยู่อย่างเหมาะเจาะในเซปัง ซึ่งเป็นย่านที่ได้รับความนิยมที่สุดย่านหนึ่งของเมือง ท่านสามารถเดินทางไปยังที่พักระดับ 2 ดาวแห่งนี้ได้อย่างง่ายดาย เพราะอยู่ห่างจากสนามบินเพียง ที่พักแห่งนี้ตั้งอยูใกล้สถานที่ท่องเที่ยวหลายแห่งที่ได้รับความนิยม เช่น สนามแข่งรถฟอร์มูล่าวัน เซปัง, เซแปง อินเตอร์เนชันแนล เซอร์กิต",
+  "phone": "02-266-9954",
+  "website": "https://www.agoda.com/bary-inn-klia/hotel/kuala-lumpur-my.html?cid=-211",
+  "pictures": [
+    "http://map.tourismthailand.org/ThailandTourismMap/image/20000022728_PIC1.jpg"
+  ],
+  "hotel_star": 5.0,
+  "checkin": "14:00:00",
+  "checkout": "12:00:00",
+  "range_of_price": "600 - 2000 บาท",
+  "facilities": [
+    { "code": "BF", "desc": "บริการอาหารเช้า" },
+    { "code": "FN", "desc": "ฟิตเนส" },
+    { "code": "PK", "desc": "ที่จอดรถ" },
+    { "code": "RR", "desc": "ห้องน้ำ" },
+    { "code": "SP", "desc": "สปา" },
+    { "code": "WI", "desc": "บริการอินเตอร์เน็ตไวไฟ" }
+  ]
 }
