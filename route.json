@@ -1,0 +1,64 @@
+{
+  "id": "R000000082",
+  "name": "เส้นทางท่องเที่ยว 4 วัน 3 คืน : เกาะสมุย - สุราษฎร์ธานี",
+  "number_of_days": 4,
+  "info": "เส้นทางท่องเที่ยว 4 วัน 3 คืน : เกาะสมุย - สุราษฎร์ธานี",
+  "days": [{
+    "day": 1,
+    "stops": [{
+      "id": "P0007702  ",
+      "name": "อุทยานแห่งชาติหมู่เกาะอ่างทอง",
+      "info": "",
+      "picture": ""
+    }, {
+      "id": "P0015485  ",
+      "name": "เกาะสมุย",
+      "info": "",
+      "picture": "http://map.tourismthailand.org/ThailandTourismMap/image/20000346827_PIC1.jpg"
+    }]
+  }, {
+    "day": 2,
+    "stops": [{
+      "id": "P0011385  ",
+      "name": "พระใหญ่ หรือ พระพุทธโคดม",
+      "info": "",
+      "picture": "http://map.tourismthailand.org/ThailandTourismMap/image/20000397238_PIC1.jpg"
+    }, {
+      "id": "P0011443  ",
+      "name": "สวนผีเสื้อ",
+      "info": "",
+      "picture": "http://map.tourismthailand.org/ThailandTourismMap/image/20000381525_PIC1.jpg"
+    }, {
+      "id": "P0010989  ",
+      "name": "หินตาหินยาย",
+      "info": "",
+      "picture": "http://map.tourismthailand.org/ThailandTourismMap/image/20000255836_PIC1.jpg"
+    }, {
+      "id": "P0011765  ",
+      "name": "พุทธเจดีย์แหลมสอ",
+      "info": "",
+      "picture": "http://map.tourismthailand.org/ThailandTourismMap/image/20000466728_PIC1.jpg"
+    }, {
+      "id": "P0011398  ",
+      "name": "หาดละไม",
+      "info": "",
+      "picture": "http://map.tourismthailand.org/ThailandTourismMap/image/20000394647_PIC1.jpg"
+    }]
+  }, {
+    "day": 3,
+    "stops": [{
+      "id": "P0014194  ",
+      "name": "เขื่อนรัชชประภา (เขื่อนเชี่ยวหลาน)",
+      "info": "",
+      "picture": "http://map.tourismthailand.org/ThailandTourismMap/image/20000512985_PIC1.jpg"
+    }]
+  }, {
+    "day": 4,
+    "stops": [{
+      "id": "P0000688  ",
+      "name": "อุทยานแห่งชาติเขาสก",
+      "info": "",
+      "picture": ""
+    }]
+  }]
+}
